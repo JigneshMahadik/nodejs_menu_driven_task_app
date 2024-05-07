@@ -1,0 +1,13 @@
+{
+  "name": "menu-driven-task-app",
+  "version": "1.0.0",
+  "description": "Menu driven task app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Menu Driven Task App"],
+  "author": "Jignesh Mahadik",
+  "license": "ISC"
+}
